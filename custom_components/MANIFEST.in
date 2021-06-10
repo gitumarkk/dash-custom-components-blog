@@ -1,0 +1,7 @@
+include custom_components/custom_components.min.js
+include custom_components/custom_components.min.js.map
+include custom_components/metadata.json
+include custom_components/package-info.json
+include README.md
+include LICENSE
+include package.json
