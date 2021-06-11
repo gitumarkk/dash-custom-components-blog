@@ -16,7 +16,10 @@
   "author": "mark <mark@mbele.io>",
   "license": "MIT",
   "dependencies": {
-    "ramda": "^0.26.1"
+    "dayjs": "^1.10.5",
+    "ramda": "^0.26.1",
+    "react-calendar": "^3.4.0",
+    "react-quill": "^1.3.5"
   },
   "devDependencies": {
     "@babel/core": "^7.5.4",

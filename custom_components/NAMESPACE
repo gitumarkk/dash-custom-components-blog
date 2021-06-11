@@ -1,4 +1,8 @@
 # AUTO GENERATED FILE - DO NOT EDIT
 
+export(MyCalendar)
 export(MyCustomComponent)
+export(MyEditor)
+export(myCalendar)
 export(myCustomComponent)
+export(myEditor)
